@@ -24,7 +24,7 @@ public class FirstActivity extends AppCompatActivity {
     String[] android_versions;
     ArrayAdapter<String> adapter;
     ArrayList<String> arrayList = new ArrayList<>();
-    // blablablablablablablablablablablablablablabla
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
